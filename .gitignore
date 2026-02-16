@@ -16,3 +16,5 @@ bin/
 
 # VS Code settings
 .vscode/
+
+tempCodeRunnerFile.cpp
